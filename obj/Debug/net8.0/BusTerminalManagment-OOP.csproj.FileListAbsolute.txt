@@ -1,0 +1,14 @@
+D:\VS Save\BusTerminalManagment-OOP\bin\Debug\net8.0\BusTerminalManagment-OOP.exe
+D:\VS Save\BusTerminalManagment-OOP\bin\Debug\net8.0\BusTerminalManagment-OOP.deps.json
+D:\VS Save\BusTerminalManagment-OOP\bin\Debug\net8.0\BusTerminalManagment-OOP.runtimeconfig.json
+D:\VS Save\BusTerminalManagment-OOP\bin\Debug\net8.0\BusTerminalManagment-OOP.dll
+D:\VS Save\BusTerminalManagment-OOP\bin\Debug\net8.0\BusTerminalManagment-OOP.pdb
+D:\VS Save\BusTerminalManagment-OOP\obj\Debug\net8.0\BusTerminalManagment-OOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Save\BusTerminalManagment-OOP\obj\Debug\net8.0\BusTerminalManagment-OOP.AssemblyInfoInputs.cache
+D:\VS Save\BusTerminalManagment-OOP\obj\Debug\net8.0\BusTerminalManagment-OOP.AssemblyInfo.cs
+D:\VS Save\BusTerminalManagment-OOP\obj\Debug\net8.0\BusTerminalManagment-OOP.csproj.CoreCompileInputs.cache
+D:\VS Save\BusTerminalManagment-OOP\obj\Debug\net8.0\BusTerminalManagment-OOP.dll
+D:\VS Save\BusTerminalManagment-OOP\obj\Debug\net8.0\refint\BusTerminalManagment-OOP.dll
+D:\VS Save\BusTerminalManagment-OOP\obj\Debug\net8.0\BusTerminalManagment-OOP.pdb
+D:\VS Save\BusTerminalManagment-OOP\obj\Debug\net8.0\BusTerminalManagment-OOP.genruntimeconfig.cache
+D:\VS Save\BusTerminalManagment-OOP\obj\Debug\net8.0\ref\BusTerminalManagment-OOP.dll
