@@ -12,3 +12,4 @@ D:\VS Save\BusTerminalManagment-OOP\obj\Debug\net8.0\refint\BusTerminalManagment
 D:\VS Save\BusTerminalManagment-OOP\obj\Debug\net8.0\BusTerminalManagment-OOP.pdb
 D:\VS Save\BusTerminalManagment-OOP\obj\Debug\net8.0\BusTerminalManagment-OOP.genruntimeconfig.cache
 D:\VS Save\BusTerminalManagment-OOP\obj\Debug\net8.0\ref\BusTerminalManagment-OOP.dll
+D:\VS Save\BusTerminalManagment-OOP\obj\Debug\net8.0\BusTerminalManagment-OOP.sourcelink.json

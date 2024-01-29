@@ -21,20 +21,16 @@ namespace BusTerminalManagment_OOP
 
                 case 1:
                     {
-                        var bus = new NormalBus(name)
-                        {
-                            Type = BusType.Normal,
-                        };
+                        var bus = new NormalBus(name);
+                        bus.SetBusType(BusType.Normal);
                         _buses.Add(bus);
                         Console.WriteLine("***Bus Added Successfully***");
                         break;
                     }
                 case 2:
                     {
-                        var bus = new VipBus(name)
-                        {
-                            Type = BusType.Vip,
-                        };
+                        var bus = new VipBus(name);
+                        bus.SetBusType(BusType.Vip);
                         _buses.Add(bus);
                         Console.WriteLine("***Bus Added Successfully***");
                         break;
@@ -123,7 +119,6 @@ namespace BusTerminalManagment_OOP
             var seat = busSeats.Single(_ => _.Number == seatNumber);
 
             seat.Status = status;
-            //seat.Condition = "rr";
             if (status == SeatStatus.Empty)
             {
                 seat.Condition = seat.Number.ToString("00");

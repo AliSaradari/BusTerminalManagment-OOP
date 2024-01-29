@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BusTerminalManagment-OOP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a4a90bb6e773b22f017bf8f69c19828889c3e708")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7f8a14221a2881916e4df136f458b96fd722a3a1")]
 [assembly: System.Reflection.AssemblyProductAttribute("BusTerminalManagment-OOP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BusTerminalManagment-OOP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

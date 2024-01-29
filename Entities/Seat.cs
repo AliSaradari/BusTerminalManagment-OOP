@@ -1,8 +1,11 @@
-﻿namespace BusTerminalManagment_OOP.Entities
+﻿using System.Security.Cryptography;
+
+namespace BusTerminalManagment_OOP.Entities
 {
     public class Seat
     {
-        
+        private int _id;
+        private int _number;
         public Seat(int number)
         {
             Number = number;
@@ -10,8 +13,30 @@
             Condition = Number.ToString("00");
         }
 
-        public int Id { get; set; }
-        public int Number { get; set; }
+        public int Id
+        {
+            get { return _id; }
+            set
+            {
+                if (value < 0)
+                {
+                    throw new Exception("Id Cannot be negative");
+                }
+                _id = value;
+            }
+        }
+        public int Number
+        {
+            get { return _number; }
+            set
+            {
+                if (value < 0)
+                {
+                    throw new Exception("Number Cannot be negative");
+                }
+                _number = value;
+            }
+        }
         public SeatStatus Status { get; set; }
         public string Condition { get; set; }
 

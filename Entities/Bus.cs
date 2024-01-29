@@ -38,9 +38,13 @@
                 _name = value;
             }
         }
-        public BusType Type { get; set; }
+        public BusType Type { get; private set; }
         public List<Seat> Seats { get; set; }
 
+        public void SetBusType(BusType busType)
+        {
+            Type = busType;
+        }
         public abstract void ShowSeats();
     }
     public enum BusType
